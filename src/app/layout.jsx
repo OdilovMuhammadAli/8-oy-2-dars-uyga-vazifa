@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export const metadata = {
   title: "Uyga vazifa",
-  description: "CSR SSR SSG ISR demo",
+  description: "CSR SSR SSG ISR",
 };
 
 export default function RootLayout({ children }) {
